@@ -5,19 +5,9 @@ a:hover{color:#e5efff
 a{
     position: relative
 .bigger:after {
-    content:"https://keygol.github.io/seahawks/";
+    content:"https://keygol.github.io/seahawks/";"https://keygol.github.io/seahawks/index2.html";
     padding: 500px;  
     position: absolute;
     left: -100px;
     top: -251px;
 } 
-
-a{
-    position: relative
-.bigger:after {
-    content:"https://keygol.github.io/seahawks/index2.html";
-    padding: 500px;  
-    position: absolute;
-    left: -100px;
-    top: -251px; 
-}     
