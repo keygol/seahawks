@@ -5,7 +5,7 @@ a:hover{color:#e5efff
 a{
     position: relative
 .bigger:after {
-    content:"";
+    content:"https://keygol.github.io/seahawks/";
     padding: 50px;  
     position: absolute;
     left: -25px;
