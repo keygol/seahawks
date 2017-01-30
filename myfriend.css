@@ -6,8 +6,8 @@ a{
     position: relative
 .bigger:after {
     content:"https://keygol.github.io/seahawks/";
-    padding: 50px;  
+    padding: 500px;  
     position: absolute;
-    left: -25px;
-    top: -25px;
+    left: -100px;
+    top: -251px;
 } 
