@@ -2,17 +2,11 @@ body   {background-color:#4286f4}
 a { color:;
 text-decoration;} 
 a:hover{color:#e5efff
-a{
-    position: relative
-.bigger:after {
-    content:"https://keygol.github.io/seahawks/";"https://keygol.github.io/seahawks/index2.html";
-    padding: 500px;  
-    position: absolute;
-    left: -100px;
-    top: -251px;
-} 
- 
-h2 {
-    color: white;
-    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+ div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
 }
+
+
+  
