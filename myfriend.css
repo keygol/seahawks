@@ -2,10 +2,4 @@ body   {background-color:#4286f4}
 a { color:;
 text-decoration;} 
 a:hover{color:#e5efff 
-
-img {"http://otlibrary.com/wp-content/gallery/bel/seasnake04.jpg "alt="HTML5 Icon"width="200" height="200">
-	border-width: 2px;
- 	border-style: solid;
-	border-color: #000;
-}
-
+<img src="smiley.gif" alt="Smiley face" width="42" height="42" border="5">
