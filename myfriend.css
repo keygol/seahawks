@@ -3,12 +3,9 @@ a { color:;
 text-decoration;} 
 a:hover{color:#e5efff 
 
-div."hi"
-    img src="http://otlibrary.com/wp-content/gallery/bel/seasnake04.jpg"
-    width: 300px;
-    border: 25px solid white;
-    padding: 25px;
-    margin: 25px;
- 
-  
-  
+img 
+	border-width: 2px;
+ 	border-style: solid;
+	border-color: #000;
+
+
