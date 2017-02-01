@@ -3,9 +3,9 @@ a { color:;
 text-decoration;} 
 a:hover{color:#e5efff 
 
-img 
+img {
 	border-width: 2px;
  	border-style: solid;
 	border-color: #000;
-
+}
 
