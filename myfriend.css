@@ -1,11 +1,10 @@
 body   {background-color:#4286f4}
 a { color:;
-text-decoration;} 
+text-decoration;}
+div."hi"
+  border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
 a:hover{color:#e5efff
-  display: block;
-}
-p {
-  display: block;
-}
-
-   
