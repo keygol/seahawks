@@ -1,11 +1,11 @@
 body   {background-color:#4286f4}
 a { color:;
 text-decoration;}
-div."hi" {
+div.hi{
     background-color: lightgrey;
     width: 300px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
 }
-a:hover{color:#e5efff
+a:hover{color:#e5efff;}
