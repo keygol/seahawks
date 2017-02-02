@@ -9,3 +9,9 @@ div.hi{
     margin: 25px;
 }
 a:hover{color:#e5efff;}
+
+img 
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
